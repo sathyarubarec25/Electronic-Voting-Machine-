@@ -63,7 +63,8 @@ The system consists of the following major modules:
 
 
 # FSM State Diagram
-<img width="983" height="491" alt="image" src="https://github.com/user-attachments/assets/c567ea0a-4483-49c2-b5e9-4d4ed1d458d9" />
+<img width="800" height="435" alt="Screenshot 2026-11-02 180552" src="https://github.com/user-attachments/assets/cc77f51b-9b11-4c22-928b-be88ee7b8376" />
+
 
 
 # Hardware and Tools
